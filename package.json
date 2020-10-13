@@ -1,7 +1,7 @@
 {
   "author": "Kaushik Wavhal <kaushik.wavhal@games24x7.com>",
   "license": "MIT",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "name": "monorepotest",
   "workspaces": [
