@@ -2,6 +2,6 @@
 
 const moduleOne = require('..');
 
-describe('@kaushiktest/moduleOne', () => {
+describe('@kaushikw/moduleOne', () => {
     it('needs tests');
 });

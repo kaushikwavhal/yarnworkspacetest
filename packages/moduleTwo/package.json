@@ -1,5 +1,5 @@
 {
-  "name": "@kaushiktest/moduletwo",
+  "name": "@kaushikw/moduletwo",
   "version": "1.4.0",
   "description": "> TODO: description",
   "author": "Kaushik Wavhal <kaushik.wavhal@games24x7.com>",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/kaushikwavhal/yarnworkspacetest/issues"
   },
-  "gitHead": "54e83ceac02e2280e07062efa459f13574e5ac90"
+  "gitHead": "550b9a060028a0bd14965b484e13f5e24affbb31"
 }

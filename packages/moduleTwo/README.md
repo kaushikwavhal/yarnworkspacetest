@@ -1,11 +1,11 @@
-# `@kaushiktest/moduleTwo`
+# `@kaushikw/moduleTwo`
 
 > TODO: description
 
 ## Usage
 
 ```
-const moduleTwo = require('@kaushiktest/moduleTwo');
+const moduleTwo = require('@kaushikw/moduleTwo');
 
 // TODO: DEMONSTRATE API
 ```
